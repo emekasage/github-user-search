@@ -1,8 +1,6 @@
-# Github User Search [![Build Status](https://github.com/emekasage/github-user-search?branch=master)](https://github.com/emekasage/github-user-search)
+# Github User Search
 
-Search and view users via the Github API - https://simonsmith.github.io/github-user-search
-
-Requests are cached in session storage to limit the use of the API.
+Search and view users via the Github API - https://emekasage.github.io/github-user-search/.
 
 ## What is this?
 
